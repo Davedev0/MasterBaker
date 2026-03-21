@@ -6,7 +6,6 @@
 - [Project Overview](#-project-overview)
 - [✨ Features](#-features)
 - [👨‍💻 Development Team](#-development-team)
-- [🛠️ System Architecture](#️-system-architecture)
 - [🚀 Installation & Setup](#-installation--setup)
 - [📱 System Management](#-system-management)
 - [🎨 Design System](#-design-system)
